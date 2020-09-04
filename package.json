@@ -1,0 +1,17 @@
+{
+  "name": "testingappium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "wd": "^1.13.0",
+    "webdriverio": "^6.4.5"
+  }
+}
